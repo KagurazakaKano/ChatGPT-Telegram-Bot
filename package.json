@@ -1,0 +1,20 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bee-queue": "^1.5.0",
+    "chatgpt": "^4.4.1",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "simple-json-db": "^2.0.0"
+  },
+  "type": "module"
+}
